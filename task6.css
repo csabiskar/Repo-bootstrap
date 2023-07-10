@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bodyImg{
+   height: 250px;
+   width: 100vw;
+   object-fit: cover;
+}
+body{
+    background-color:aliceblue;
+}
+.card-img-top{
+    width: 100px;
+    height: 100px;
+}

@@ -1,7 +1,7 @@
 .contain1{
     background-color: #0967d219;
     border-radius: 10px;
-    height: 120px;
+    height: 150px;
 }
 .sym{
     background-color: #3ebd93;
@@ -27,4 +27,9 @@
 .doc{
     background-color: #e12d3919;
     height: 150px;
+}
+@media screen and (max-width:425px) {
+     .doc{
+        height: 200px;
+     }    
 }

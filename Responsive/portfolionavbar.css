@@ -1,0 +1,17 @@
+.nav_bar{
+    border: 1px solid #ededed;
+}
+img{
+    height: 200px;
+    width: 200px;   
+}
+body{
+    background-color: #191a1d;
+}
+.name{
+    color: #4b6cc1;
+}
+.button1{
+    background-color: #4b6cc1;
+    color: white;
+}
